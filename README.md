@@ -11,16 +11,17 @@ Experienced in investigating security incidents using Microsoft Sentinel, Splunk
 To contribute as a SOC Analyst, DFIR Analyst, or Threat Hunter by applying my operational security background, enterprise-style cybersecurity training, and practical experience in threat detection, incident response, digital forensics, and detection engineering. I am committed to protecting organizations through continuous monitoring, effective investigations, and proactive threat hunting while continuously expanding my technical expertise.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill | Associated Project |
+|-----------------------------------------------|------------------------------------------------------------|
+| SIEM & Log Analysis (Microsoft Sentinel, Splunk) | Enterprise SIEM Investigation Lab |
+| Digital Forensics & Incident Response (DFIR) | Enterprise Ransomware DFIR Investigation |
+| Threat Hunting & Detection Engineering | Proactive Threat Hunting Lab |
+| Detection Engineering (KQL, Sigma, YARA) | Detection Rule Development |
+| Endpoint Investigation (Microsoft Defender XDR, Sysmon) | Endpoint Threat Investigation |
+| Network Traffic Analysis (Wireshark, PCAP) | Network & Host Forensics Investigation |
+| Memory & Disk Forensics (KAPE, Velociraptor, Autopsy) | DFIR Artifact Analysis |
+| Incident Response & Case Management | SOC Alert Triage & Incident Investigation |
+| Security Automation & Scripting (PowerShell, KQL) | Security Automation Labs |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
