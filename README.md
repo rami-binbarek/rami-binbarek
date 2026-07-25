@@ -82,3 +82,6 @@ To contribute as a SOC Analyst, DFIR Analyst, or Threat Hunter by applying my op
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## Platforms
+Microsoft Sentinel • Microsoft Defender XDR • Splunk Enterprise • Elastic • Velociraptor • TheHive • Shuffle SOAR • TryHackMe • CyberDefenders • DetectionLab
